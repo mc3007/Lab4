@@ -16,7 +16,7 @@ body::before {
     right: 0;
     bottom: 0;
     left: 0;
-    background: linear-gradient(to right, #6dd5ed, #2193b0); /* Gradient background */
+    background: linear-gradient(to right, #faff7c, #a82833); /* Gradient background */
     opacity: 0.85; /* Slight transparency for depth */
     z-index: -1;
 }
